@@ -15,7 +15,7 @@ Passionate about building clean, responsive, and meaningful web experiences.
 
 ### 🛠️ Tech Stack
 `React` · `TypeScript` · `Redux Toolkit` · `React Query` · `Tailwind CSS`  
-`JavaScript (ES6+)` · `Git` · `Node.js (basic)` · `REST API` · `HTML5` · `CSS3` · `Node.js` · `PostCSS / SASS`
+`JavaScript (ES6+)` · `Git` · `Node.js (basic)` · `REST API` · `HTML5` · `CSS3` · `PostCSS / SASS`
 
 ---
 
